@@ -1,3 +1,4 @@
+-- This has been tested and works fine
 local Players = game:GetService("Players")
 local player = Players.LocalPlayer
 
