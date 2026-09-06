@@ -1,4 +1,5 @@
--- in the vortex Explorer insert a part then insert a script in that part write this down
+-- in the vortex Explorer insert a part then insert a script in that part write this down this has been tested so it works fine
+
 local part = script.Parent
 local speed = 2
 
